@@ -1,0 +1,5 @@
+{
+  "token": "YOUR_GITLAB_TOKEN",
+  "server": "gitlab.com",
+  "user": "YOUR_GITLAB_USERNAME"
+}

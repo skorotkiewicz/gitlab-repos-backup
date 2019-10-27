@@ -1,0 +1,23 @@
+{
+  "name": "gitlab-repos-backup",
+  "version": "1.0.0",
+  "description": "Backup all of Gitlab repositories to local filesystem",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skorotkiewicz/gitlab-repos-backup.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/skorotkiewicz/gitlab-repos-backup/issues"
+  },
+  "homepage": "https://github.com/skorotkiewicz/gitlab-repos-backup#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "node-cmd": "^3.0.0"
+  }
+}
